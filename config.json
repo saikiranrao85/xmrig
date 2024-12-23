@@ -78,9 +78,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "xmrpool.eu:9999",
-            "user": "48ZswdbS6CdNyWgF5LxSg46TaP2UgHQAXJvvceipzCwbjnoN1t31CNK9SU8BdcNB7bHC4aNhFteKG4ocPumBMgD6JSaZbBC",
-            "pass": null,
+            "url": "stratum+tcp://stratum.braiins.com:3333",
+            "user": "deadshot54.workerName",
+            "pass": "anything123",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
